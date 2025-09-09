@@ -1,2 +1,2 @@
 # School-tech-solutions
-To create creative solutions for school life and inviroment
+>To create creative solutions for school life and inviroment
