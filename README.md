@@ -1,5 +1,5 @@
 # ***School-tech-solutions***
-Hackathons
+## *Hackathons*
 
  ◦ Implementación de dispositivos IoT en las aulas
 
